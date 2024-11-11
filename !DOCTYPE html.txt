@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Welkom bij mijn Statische Website</title>
+</head>
+<body>
+    <h1>Hallo, Wereld!</h1>
+    <p>Dit is een eenvoudige statische website geïmplementeerd met AWS CodeCommit, CodeBuild en CodeDeploy.</p>
+</body>
+</html>
